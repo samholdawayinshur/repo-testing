@@ -1,6 +1,6 @@
 # repo-testing
 
-This is a test repo
+This is a test repo and now it contains some code
 
 ## New section
 
